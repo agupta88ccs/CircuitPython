@@ -10,3 +10,5 @@ CircuitPythonServoTouch.py - using two wires to turnt the servo when one wire is
 LEDFade.py - fading an LED in and out 
 
 CircuitPythonDistanceSensor.py - using a distance sensor the led on the metro went in a gradient of colors as something moves towards and away from the sensor
+
+hello_vs_code.py - using the VS code we are able to code and add things to git faster
