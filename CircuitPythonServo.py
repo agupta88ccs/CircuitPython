@@ -13,7 +13,7 @@ touch_A2 = touchio.TouchIn(board.A2)
 my_servo = servo.Servo(pwm)  # Create a servo object, my_servo.
 
 while True:
-    if touch_A1.value:
+    if touch_A1.value: # Look at me, im a comment!
         print("Touched A1!")
     if touch_A2.value:
         print("Touched A2!")
