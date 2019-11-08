@@ -1,11 +1,18 @@
 # CircuitPython
-My CircuitPython assignments
 
-CircuitPythonLCD.py - using an LCD to print the "hello" 
+## LCD Button
+### Description
+Coding an LCD screen to print the amount of times a button is pushed.   
+### Lesson Learned 
+Always check the wiring and LCD screen because sometimes the code isn't what is wrong it is something with the physical LCD screen. 
+### Wiring Diagram 
 
-CircuitPythonServo.py - truned a servo 180 degrees back and forth
+## Servo Touch 
+### Description 
+Coding a servo to turn back and forth when a wire is touched. When one is touched it turns 180 degrees in one direction and when the other is touched it turns 180 degrees in the other direction.   
+### Lesson Learned
 
-CircuitPythonServoTouch.py - using two wires to turnt the servo when one wire is touched and then the pther way when the other wire is touched
+
 
 LEDFade.py - fading an LED in and out 
 
