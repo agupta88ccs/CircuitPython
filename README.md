@@ -11,10 +11,18 @@ Always check the wiring and LCD screen because sometimes the code isn't what is 
 ### Description 
 Coding a servo to turn back and forth when a wire is touched. When one is touched it turns 180 degrees in one direction and when the other is touched it turns 180 degrees in the other direction.   
 ### Lesson Learned
+### Wiring Diagram
 
+## LED Fade
+### Description
+Coding an LED to fade in and out. 
+### Lesson Learned
+This is the first CircuitPython assignment we did so learning the new coding language was the main difficulty when doing this. 
+### Wiring Diagram
 
-
-LEDFade.py - fading an LED in and out 
+### Distance Sensor
+## Description
+Controlling the color fade of the LED on the Metro board in relation to the distance sensor. 
 
 CircuitPythonDistanceSensor.py - using a distance sensor the led on the metro went in a gradient of colors as something moves towards and away from the sensor
 
