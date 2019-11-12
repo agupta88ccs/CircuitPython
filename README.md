@@ -38,7 +38,7 @@ Using a class to create a change in colors in two LEDS.
 ### Lesson Learned
 This assignment I did with Piper so between the two of us we were able to figure out the code. 
 ### Wiring Diagram 
-![Image of fritzing for RGB Class](https://github.com/tweissm35/CircuitPython/blob/master/media/rgb.jpg)
+<img src="https://github.com/tweissm35/CircuitPython/blob/master/media/rgb.jpg" width="400">
 
 ## Fancy LED
 ### Description
@@ -46,4 +46,4 @@ Using classes to have LEDS light up in certain patterns.
 ### Lesson Learned
 I was able to understand the code and I was pretty sure it was working when a couple of my LEDs wouldn't light up. I realized that when rewiring my LEDs the pins weren't in the correct spot so two of the LEDS couldn't light up. After figuring that out it worked really smmoothly. 
 ### Wiring Diagram 
-![Image of fritzing for Fancy LED](https://github.com/tweissm35/CircuitPython/blob/master/media/fancyLED.jpg)
+<img src="https://github.com/tweissm35/CircuitPython/blob/master/media/fancyLED.jpg" width="400">
