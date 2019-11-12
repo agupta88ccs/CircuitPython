@@ -6,7 +6,7 @@ Coding an LCD screen to print the amount of times a button is pushed.
 ### Lesson Learned 
 Always check the wiring and LCD screen because sometimes the code isn't what is wrong it is something with the physical LCD screen. 
 ### Wiring Diagram 
-![Image of fritzing for LCD Button](https://raw.githubusercontent.com/tweissm35/CircuitPython/master/media/lcdcount.jpg)
+<img src="https://raw.githubusercontent.com/tweissm35/CircuitPython/master/media/lcdcount.jpg" width="400">
 
 ## Servo Touch 
 ### Description 
@@ -14,7 +14,7 @@ Coding a servo to turn back and forth when a wire is touched. When one is touche
 ### Lesson Learned
 Figuring out how to do touchio was slightlty complicated other than that I was able to figuer out this prettyeasily. All the wiring I already mainly knew hwo to do so that was helpful. 
 ### Wiring Diagram
-![Image of fritzing for Servo Touch](https://raw.githubusercontent.com/tweissm35/CircuitPython/master/media/servo.jpg)
+<img src="https://raw.githubusercontent.com/tweissm35/CircuitPython/master/media/servo.jpg" width="400">
 
 ## LED Fade
 ### Description
@@ -22,7 +22,7 @@ Coding an LED to fade in and out.
 ### Lesson Learned
 This is the first CircuitPython assignment we did so learning the new coding language was the main difficulty when doing this. 
 ### Wiring Diagram
-![Image of fritzing for LED Fade](https://github.com/tweissm35/CircuitPython/blob/master/media/fade.jpg)
+<img src="https://github.com/tweissm35/CircuitPython/blob/master/media/fade.jpg" width="400">
 
 ## Distance Sensor
 ### Description
@@ -30,7 +30,7 @@ Controlling the color fade of the LED on the Metro board in relation to the dist
 ### Lesson Learned
 To me this code was really confusing to figure out. One of the main things was just trying to understand the code and all the values that controlled the colors. 
 ### Wiring Diagram
-![Image of fritzing for Distance Sensor](https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg)
+<img src="https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg" width="400">
 
 ## RBG Class
 ### Description
