@@ -47,3 +47,6 @@ Using classes to have LEDS light up in certain patterns.
 I was able to understand the code and I was pretty sure it was working when a couple of my LEDs wouldn't light up. I realized that when rewiring my LEDs the pins weren't in the correct spot so two of the LEDS couldn't light up. After figuring that out it worked really smmoothly. 
 ### Wiring Diagram 
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/fancyLED.jpg" width="400">
+
+(Images used from https://github.com/tweissm35/CircuitPython)
+(Code help from https://learn.adafruit.com/welcome-to-circuitpython/creating-and-editing-code) 
