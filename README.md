@@ -12,7 +12,7 @@ Always check the wiring and LCD screen because sometimes the code isn't what is 
 ### Description 
 Coding a servo to turn back and forth when a wire is touched. When one is touched it turns 180 degrees in one direction and when the other is touched it turns 180 degrees in the other direction.   
 ### Lesson Learned
-Figuring out how to do touchio was slightlty complicated other than that I was able to figuer out this prettyeasily. All the wiring I already mainly knew hwo to do so that was helpful. 
+Figuring out how to do touchio was slightlty complicated other than that I was able to figuer out this prettyeasily. All the wiring I already mainly knew how to do so that was helpful. 
 ### Wiring Diagram
 <img src="https://raw.githubusercontent.com/tweissm35/CircuitPython/master/media/servo.jpg" width="400">
 
@@ -36,7 +36,7 @@ To me this code was really confusing to figure out. One of the main things was j
 ### Description
 Using a class to create a change in colors in two LEDS. 
 ### Lesson Learned
-This assignment I did with Piper so between the two of us we were able to figure out the code. 
+This assignment I did with Piper so between the two of us we were able to figure out the code. We had many spelling errors so figuring that out was complicated to figure out. The code we have is on her computer which is why I don't have this. 
 ### Wiring Diagram 
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/rgb.jpg" width="400">
 
