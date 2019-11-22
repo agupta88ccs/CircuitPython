@@ -48,6 +48,12 @@ I was able to understand the code and I was pretty sure it was working when a co
 ### Wiring Diagram 
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/fancyLED.jpg" width="400">
 
+## Gearbox
+### Description
+### Lesson Learned
+### Images
+
+
 (Images used from https://github.com/tweissm35/CircuitPython)
 
 (Code help from https://learn.adafruit.com/welcome-to-circuitpython/creating-and-editing-code) 
