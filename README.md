@@ -7,6 +7,7 @@ Coding an LCD screen to print the amount of times a button is pushed.
 Always check the wiring and LCD screen because sometimes the code isn't what is wrong it is something with the physical LCD screen. 
 ### Wiring Diagram 
 <img src="https://raw.githubusercontent.com/tweissm35/CircuitPython/master/media/lcdcount.jpg" width="400">
+
 [Images Credit: Tim Weissman](https://github.com/tweissm35/CircuitPython)
 
 
@@ -27,6 +28,7 @@ Coding an LED to fade in and out.
 This is the first CircuitPython assignment we did so learning the new coding language was the main difficulty when doing this. 
 ### Wiring Diagram
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/fade.jpg" width="400">
+
 [Images Credit: Tim Weissman](https://github.com/tweissm35/CircuitPython)
 
 
