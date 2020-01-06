@@ -1,4 +1,4 @@
-# CircuitPython
+# Engineering Notebook
 
 ## LCD Button
 ### Description
