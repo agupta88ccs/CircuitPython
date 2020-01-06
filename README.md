@@ -18,6 +18,7 @@ Coding a servo to turn back and forth when a wire is touched. When one is touche
 Figuring out how to do touchio was slightlty complicated other than that I was able to figuer out this prettyeasily. All the wiring I already mainly knew how to do so that was helpful. 
 ### Wiring Diagram
 <img src="https://raw.githubusercontent.com/tweissm35/CircuitPython/master/media/servo.jpg" width="400">
+
 [Images Credit: Tim Weissman](https://github.com/tweissm35/CircuitPython)
 
 
@@ -39,6 +40,7 @@ Controlling the color fade of the LED on the Metro board in relation to the dist
 To me this code was really confusing to figure out. One of the main things was just trying to understand the code and all the values that controlled the colors. 
 ### Wiring Diagram
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg" width="400">
+
 [Images Credit: Tim Weissman](https://github.com/tweissm35/CircuitPython)
 
 
@@ -49,6 +51,7 @@ Using a class to create a change in colors in two LEDS.
 This assignment I did with Piper so between the two of us we were able to figure out the code. We had many spelling errors so figuring that out was complicated to figure out. The code we have is on her computer which is why I don't have this. 
 ### Wiring Diagram 
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/rgb.jpg" width="400">
+
 [Images Credit: Tim Weissman](https://github.com/tweissm35/CircuitPython)
 
 
@@ -59,6 +62,7 @@ Using classes to have LEDS light up in certain patterns.
 I was able to understand the code and I was pretty sure it was working when a couple of my LEDs wouldn't light up. I realized that when rewiring my LEDs the pins weren't in the correct spot so two of the LEDS couldn't light up. After figuring that out it worked really smmoothly. 
 ### Wiring Diagram 
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/fancyLED.jpg" width="400">
+
 [Images Credit: Tim Weissman](https://github.com/tweissm35/CircuitPython)
 
 
