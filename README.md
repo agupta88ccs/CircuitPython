@@ -77,4 +77,4 @@ I was able to understand the code and I was pretty sure it was working when a co
 ### Images
 ### Lesson Learned
 
-(Code help from https://learn.adafruit.com/welcome-to-circuitpython/creating-and-editing-code) 
+[Code Help](https://learn.adafruit.com/welcome-to-circuitpython/creating-and-editing-code)
