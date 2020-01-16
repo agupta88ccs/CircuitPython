@@ -76,6 +76,9 @@ I was able to understand the code and I was pretty sure it was working when a co
 ### Description
 Creating a box with gear that interlock so that when one is turned the rest turn with it. 
 ### Images
+<img src="https://github.com/agupta88ccs/CircuitPython/blob/master/gearbox%20image.PNG" width="400">
+
+
 ### Lesson Learned
 
 [Code Help](https://learn.adafruit.com/welcome-to-circuitpython/creating-and-editing-code)
