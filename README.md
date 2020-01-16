@@ -2,7 +2,7 @@
 
 ## LCD Button
 ### Description
-Coding an LCD screen to print the amount of times a button is pushed.   
+The goal of this assignment was to use a MetroExpress board to wire up a LCD screen. The wire up a button to that. The code would display how many times the button was pressed on both the LCD screen and the Serial Monitor.    
 ### Wiring Diagram 
 <img src="https://raw.githubusercontent.com/tweissm35/CircuitPython/master/media/lcdcount.jpg" width="400">
 
@@ -74,6 +74,7 @@ I was able to understand the code and I was pretty sure it was working when a co
 
 ## Gearbox
 ### Description
+Creating a box with gear that interlock so that when one is turned the rest turn with it. 
 ### Images
 ### Lesson Learned
 
